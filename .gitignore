@@ -1,0 +1,8 @@
+/build
+/dist
+node_modules
+.idea
+*storybook.log
+/storybook-static
+.loki/report.json
+.loki/report.html
